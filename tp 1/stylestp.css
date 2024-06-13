@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin-top: 0;
+}
+
+
+
+body {
+    z-index: 1;
+    top:0rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.hero{
+
+    z-index: -1;
+    background: url(./img/fondo.jpg) no-repeat ;
+    background-size: cover;
+    height: 300vh;
+    width: 185vh;
+}
+
+header {
+
+    padding-top: 4rem;
+    padding-left: 60vh;
+}
+
+
+.tiendas{
+    padding-top: 4rem;
+    padding-left: 60vh;
+}
+
+.lista{
+    padding-left: 17vh;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+.facturacion{
+    padding-top: 4rem;
+    padding-left: 60vh;
+}
+
+.promedio {
+     padding-top: 4rem;
+    padding-left: 15vh;
+}
+
+.direccionamiento {
+    padding-left: 20vh;
+}
+
+footer {
+    text-align: center;
+}
